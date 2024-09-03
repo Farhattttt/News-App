@@ -12,3 +12,7 @@ The News App is a dynamic and responsive web application built using React for t
 1)React is used to build the application in a modular way, with reusable components such as Navbar, NewsCard, CategorySelector. This allows for easy maintenance and scalability of the app.
 
 2)Users can filter news by categories like World, Technology, Sports, Business, and more. Each category fetches relevant news articles from an external API, such as the News API.
+
+# Outputs(Screenshot)
+
+![NewsAppPic](https://github.com/user-attachments/assets/d1172901-b87d-4caa-8522-bc7807a1aa54)
