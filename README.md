@@ -1,8 +1,15 @@
-# React + Vite
+# News-App
+The News App is a dynamic and responsive web application built using React for the frontend and Bootstrap for the UI design. It serves as a platform where users can stay updated with the latest news articles from various categories and sources. The app is designed to offer a smooth user experience, making it easy to browse through news content, search for specific topics, and read detailed articles.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Key Features:
+1)User-Friendly Interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2)Bootstrap is utilized to create a clean, modern, and responsive design. The layout adapts seamlessly to different screen sizes, ensuring a great user experience on desktops, tablets, and mobile devices.
+
+# Component-Based Structure:
+
+React is used to build the application in a modular way, with reusable components such as Navbar, NewsCard, CategorySelector. This allows for easy maintenance and scalability of the app.
+News Categories:
+
+Users can filter news by categories like World, Technology, Sports, Business, and more. Each category fetches relevant news articles from an external API, such as the News API.
